@@ -117,6 +117,7 @@ or you can run the example using Jetty as follows:
 
 Go to the URL:
 
+<http://localhost:9998/> not
 <http://localhost:8080/bookstore-webapp/>
 
 #### Test Client Running
